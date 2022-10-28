@@ -1,2 +1,2 @@
 # Practics2
- First game for android
+ First unity application for android
